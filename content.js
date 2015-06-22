@@ -1,3 +1,6 @@
+// nytimes food
+$('.columnGroup.first .singleAd').empty().append('<a href="'+ad_link+'" target="_blank"><img src = "'+ad_img+'" width="300"></a>')
+
 // facebook
 
 // buzzfeed
